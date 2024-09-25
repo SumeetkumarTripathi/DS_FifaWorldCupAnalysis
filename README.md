@@ -24,7 +24,7 @@ This project explores historical data related to the FIFA World Cup, aiming to u
 
 - **World Cup Matches Dataset**: [https://github.com/SumeetkumarTripathi/DS_FifaWorldCupAnalysis/blob/main/WorldCupMatches.csv]
 - **World Cups Dataset**: [https://github.com/SumeetkumarTripathi/DS_FifaWorldCupAnalysis/blob/main/WorldCups.csv]
-- **World Cups Players **: [https://github.com/SumeetkumarTripathi/DS_FifaWorldCupAnalysis/blob/main/WorldCupPlayers.csv]
+- **World Cups Players**: [https://github.com/SumeetkumarTripathi/DS_FifaWorldCupAnalysis/blob/main/WorldCupPlayers.csv]
 
 ## Key Metrics
 
